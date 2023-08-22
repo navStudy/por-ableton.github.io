@@ -1,0 +1,53 @@
+h1 {
+  color: var(--palet-orange, #ff764d);
+  font-size: 90pt;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+h2 {
+  font-size: 37pt;
+  font-weight: 400;
+}
+
+h3 {
+  font-size: 29pt;
+  font-weight: 400;
+}
+
+h4 {
+  font-size: 23pt;
+  font-weight: 400;
+}
+
+h5 {
+  font-size: 19pt;
+  font-weight: 400;
+}
+
+h6 {
+  font-size: 15pt;
+  font-weight: 400;
+}
+
+p {
+  font-size: 12pt;
+  font-weight: lighter;
+}
+
+a {
+  font-size: 10pt;
+  font-weight: 200;
+}
+
+.fa-instagram,
+.fa-x-twitter,
+.fa-linkedin,
+.fa-square-facebook {
+  color: white;
+  padding-right: 10px;
+}
+
+.credit-nav {
+  color: white;
+}
