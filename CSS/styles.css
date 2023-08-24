@@ -118,7 +118,7 @@ nav ul li .free-medit:hover {
 
 .article-zone .about-1 {
   width: 1000px;
-  margin: 50px auto;
+  margin: 100px auto;
   align-items: center;
   display: flex;
   justify-content: space-between;
@@ -139,6 +139,104 @@ nav ul li .free-medit:hover {
   background-position: 50% 10%;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.article-zone .about-1 .image-custom cite {
+  float: right;
+}
+
+.article-zone .about-2 {
+  width: 1000px;
+  margin: 100px auto;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 50px;
+}
+
+.article-zone .about-2 .text-article {
+  width: 80%;
+}
+
+.article-zone .about-2 .video-custom {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  clear: both;
+}
+
+.article-zone .about-2 .video-custom .container-video {
+  width: 90%;
+}
+
+.article-zone .about-2 .video-custom .container-video cite {
+  margin-top: 10px;
+  float: left;
+}
+
+.article-zone .about-2 .video-custom .container-video iframe {
+  width: 100%;
+  height: 500px;
+  border-radius: 20px;
+  box-shadow: 30px 40px 4px 0px #fbffa7;
+  float: left;
+}
+
+.article-zone .about-3 {
+  width: 1000px;
+  margin: 100px auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.article-zone .about-3 .images-custom {
+  width: 35%;
+  height: 630px;
+}
+
+.article-zone .about-3 .images-custom .image-1 {
+  background: url("../img/guitar.jpeg");
+  box-shadow: 10px 10px 4px 0px #b6ffc0;
+  border-radius: 10px;
+}
+
+.article-zone .about-3 .images-custom .image-2 {
+  background: url("../img/saxo.jpeg");
+  box-shadow: 10px 10px 4px 0px #d5b3ff;
+  border-radius: 10px;
+  position: static;
+  transform: translate(70%, -70%);
+  resize: 20px;
+}
+
+.article-zone .about-3 .images-custom .image-3 {
+  background: url("../img/auricular.jpeg");
+  box-shadow: 10px 10px 4px 0px #ff764d;
+  border-radius: 10px;
+  position: static;
+  transform: translate(0%, -95%);
+  resize: 20px;
+}
+
+.article-zone .about-3 .images-custom .image-1,
+.article-zone .about-3 .images-custom .image-2,
+.article-zone .about-3 .images-custom .image-3 {
+  width: 250px;
+  height: 300px;
+  border-radius: 10px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0;
+}
+
+.article-zone .about-3 .text-article {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
 }
 
 footer {
