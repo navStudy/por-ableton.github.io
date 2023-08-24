@@ -47,6 +47,10 @@ a {
   font-weight: 200;
 }
 
+b {
+  color: blue;
+}
+
 .fa-instagram,
 .fa-x-twitter,
 .fa-linkedin,
@@ -81,4 +85,32 @@ cite {
 
 cite b {
   color: blue;
+}
+
+@media screen and (max-width: 800px) {
+  h1 {
+    font-size: 70pt;
+  }
+  h2 {
+    font-size: 30pt;
+  }
+  h3,
+  .text-article a {
+    font-size: 12pt;
+  }
+  h4 {
+    font-size: 18pt;
+  }
+  p {
+    font-size: 10pt;
+  }
+  cite {
+    font-size: 8pt;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  h1 {
+    font-size: 50pt;
+  }
 }
