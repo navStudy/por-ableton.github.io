@@ -1,7 +1,7 @@
 
 # Projecto de Portafolio - ABLETON
 
-Este Prototipo es armado por Alvaro Antonio Villegas Cotrina, a nombre de Nav Study, una de las propiedades que el autor pretende rescatar es la intención de ser participe de practicar tanto sus habilidades UI y las de su desarrollo Web aplicadas, sumandoce al reto que otorga la página y sitio Web [Frontend Practice](https://www.frontendpractice.com/), esmerandose en superar el reto y mejorar el entorno UI que se le solicito revisar de forma total y asimilandola a su comportamiento web, pragmandolo en la Web.
+Este Prototipo es armado por Álvaro Villegas Cotrina, a nombre de Nav Study, una de las propiedades que el autor pretende rescatar es la intención de ser partícipe de practicar tanto sus habilidades UI y las de su desarrollo Web aplicadas, sumándose al reto que otorga la página y sítio Web [Frontend Practice](https://www.frontendpractice.com/), esmerándose en superar el reto y mejorar el entorno UI que se le solicito revisar de forma total y asimilándola a su comportamiento web, pragmandolo en la Web.
 
 ### Color Aplicados al Modelo
 
